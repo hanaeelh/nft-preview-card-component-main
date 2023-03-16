@@ -52,23 +52,28 @@ p{
     color: hsl(215, 51%, 70%);
 }
 .item img{
-    margin-right: 10px;
+    margin-right: 8px;
 }
 
 .imgitem{
     width: 30px;
+    border: 1px solid hsl(0, 0%, 100%);;
+    border-radius: 50%;
+    margin-right: 20px;
 }
 .item3{
     padding-top: 5px;
     display: flex;
     margin-top: 4%;
-    gap: 8px;
+    gap: 5px;
 }
 .item31{
+    padding-top: 5px;
     color: hsl(215, 51%, 70%);
     font-size: 14px;
 }
 .item32{
+    padding-top: 5px;
     color:hsl(0, 0%, 100%);
     font-size: 15px;
 }
